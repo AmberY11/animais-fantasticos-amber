@@ -1,0 +1,14 @@
+import "./js/modules/accordion.js";
+import "./js/modules/anima-numeros.js";
+import "./js/modules/dropdown-menu.js";
+import "./js/modules/fetch-animais.js";
+import "./js/modules/fetch-bitcoin.js";
+import "./js/modules/funcionamento.js";
+import "./js/modules/menu-mobile.js";
+import "./js/modules/modal.js";
+import "./js/modules/outsideclick.js";
+import "./js/modules/scroll-animacao.js";
+import "./js/modules/scroll-suave.js";
+import "./js/modules/tabnav.js";
+import "./js/modules/tooltip.js";
+import "./js/script.js";
