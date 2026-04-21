@@ -7,7 +7,7 @@ import "./js/modules/funcionamento.js";
 import "./js/modules/menu-mobile.js";
 import "./js/modules/modal.js";
 import "./js/modules/outsideclick.js";
-import "./js/modules/scroll-animacao.js";
+import "./js/modules/scroll-anima.js";
 import "./js/modules/scroll-suave.js";
 import "./js/modules/tabnav.js";
 import "./js/modules/tooltip.js";
